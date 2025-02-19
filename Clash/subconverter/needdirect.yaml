@@ -3,7 +3,3 @@ payload:
   # Steam
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
-  #Epic
-  - RULE-SET,Epic
-  - RULE-SET,Xbox
-  - DOMAIN-SUFFIX,speedtest.net
